@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TatyanaEkelchik
+- I study Software Engineering in CVUT in Prague.
